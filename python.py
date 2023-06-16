@@ -1,6 +1,6 @@
 # replace all 0 with 5
 
-s = [1004,121]
+s = [1004,121] # You will be write s=[n]
 nes=[]
 
 for i in s:
